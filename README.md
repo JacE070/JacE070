@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Junping Luo
 + I'm currently a Computer Science & Software Engineering sophomore in **UCI**! Zot, Zot!  
-+ For now, I'm learning technical knowledge by working on UCI [ICSSC Projects Fellowship](https://fellowship.icssc.club/) and [CodePath's Cybersecurity University](https://codepath.org/) as extracurricular work!  
++ For now, I'm learning technical knowledge by working on UCI [ICSSC Projects Fellowship](https://fellowship.icssc.club/) as extracurricular work!  
 + How to reach me: junpingl@uci.edu
 + My LinkedIn is **[HERE](https://www.linkedin.com/in/%E4%BF%8A%E5%B9%B3-%E7%BD%97-75b2811ba/)**  
 ![anteater](https://mcrs.bio.uci.edu/files/2019/11/BCeater-right-768x416.png)
